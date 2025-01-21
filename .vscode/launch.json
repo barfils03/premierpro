@@ -1,0 +1,140 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Sandbox Project",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-sandbox-Sandbox",
+            "program": "${workspaceFolder}/sandbox/Sandbox/bin/Debug/net8.0/Sandbox.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/sandbox/Sandbox",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "C# Exercice 1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercice1",
+            "program": "${workspaceFolder}/week01/Exercice1/bin/Debug/net8.0/Exercice1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercice1",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "C# Exercice 2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercice2",
+            "program": "${workspaceFolder}/week01/Exercice2/bin/Debug/net8.0/Exercice2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercice2",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "C# Exercice 3",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercice3",
+            "program": "${workspaceFolder}/week01/Exercice3/bin/Debug/net8.0/Exercice3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercice3",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "C# Exercice 4",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercice4",
+            "program": "${workspaceFolder}/week01/Exercice4/bin/Debug/net8.0/Exercice4.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercice4",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "C# Exercice 5",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercice5",
+            "program": "${workspaceFolder}/week01/Exercice5/bin/Debug/net8.0/Exercice5.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Exercice5",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+
+        {
+            "name": "Develop 02 (Journal)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-Develop02",
+            "program": "${workspaceFolder}/week02/Develop02/bin/Debug/net8.0/Develop02.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/Develop02",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Develop 03 (Scripture Memorizer)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-Develop03",
+            "program": "${workspaceFolder}/week02/Develop03/bin/Debug/net8.0/Develop03.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/Develop03",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Develop 04 (Mindfulness)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-Develop04",
+            "program": "${workspaceFolder}/week02/Develop04/bin/Debug/net8.0/Develop04.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/Develop04",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Develop 05 (Goal Tracker)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-Develop05",
+            "program": "${workspaceFolder}/week02/Develop05/bin/Debug/net8.0/Develop05.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/Develop05",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        }
+        ],
+}
+
+
+        
