@@ -7,4 +7,6 @@ This repository contains the starter code for many different projects. They are 
 
 * `sandbox` - An empty project that you can use to play around with any concepts you like.
 * `week01` - Starter projects for each of the C# Prep assignments.
+* `week2.0` - Starter projects for each of the preparation Learning Activities.
 * `week02` - Starter projects for each of the prove Developer projects.
+  
