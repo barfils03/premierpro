@@ -80,6 +80,72 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
+        {
+            "name": " journ (Journal)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-Journal-journ",
+            "program": "${workspaceFolder}/Journal/journ/bin/Debug/net8.0/journ.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Journal/journ",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        
+        {
+            "name": "Learning 02 (Resume)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week2.0-Learning02",
+            "program": "${workspaceFolder}/week2.0/Learning02/bin/Debug/net8.0/Learning02.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week2.0/Learning02",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Learning 03 (Fraction)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week2.0-Learning03",
+            "program": "${workspaceFolder}/week2.0/Learning03/bin/Debug/net8.0/Learning03.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week2.0/Learning03",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Learning 04 (Homework)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week2.0-Learning04",
+            "program": "${workspaceFolder}/week2.0/Learning04/bin/Debug/net8.0/Learning04.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week2.0/Learning04",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
+            "name": "Learning 05 (Shapes)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week2.0-Learning05",
+            "program": "${workspaceFolder}/week2.0/Learning05/bin/Debug/net8.0/Learning05.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week2.0/Learning05",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
 
 
         {
