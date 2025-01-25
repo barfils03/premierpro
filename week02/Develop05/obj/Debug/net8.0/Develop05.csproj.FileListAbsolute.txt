@@ -12,3 +12,17 @@ C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop05\obj\Debug\net8.0\re
 C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop05\obj\Debug\net8.0\Develop05.pdb
 C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop05\obj\Debug\net8.0\Develop05.genruntimeconfig.cache
 C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop05\obj\Debug\net8.0\ref\Develop05.dll
+C:\Users\Pathway\premierpro\week02\Develop05\bin\Debug\net8.0\Develop05.exe
+C:\Users\Pathway\premierpro\week02\Develop05\bin\Debug\net8.0\Develop05.deps.json
+C:\Users\Pathway\premierpro\week02\Develop05\bin\Debug\net8.0\Develop05.runtimeconfig.json
+C:\Users\Pathway\premierpro\week02\Develop05\bin\Debug\net8.0\Develop05.dll
+C:\Users\Pathway\premierpro\week02\Develop05\bin\Debug\net8.0\Develop05.pdb
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.AssemblyInfoInputs.cache
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.AssemblyInfo.cs
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.csproj.CoreCompileInputs.cache
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.dll
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\refint\Develop05.dll
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.pdb
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.genruntimeconfig.cache
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\ref\Develop05.dll

@@ -81,13 +81,13 @@
             "stopAtEntry": false
         },
         {
-            "name": " journ (Journal)",
+            "name": " Journal",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build-Journal-journ",
-            "program": "${workspaceFolder}/Journal/journ/bin/Debug/net8.0/journ.dll",
+            "preLaunchTask": "build-Journal",
+            "program": "${workspaceFolder}/Journal/bin/Debug/net8.0/Journal.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Journal/journ",
+            "cwd": "${workspaceFolder}/Journal",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false

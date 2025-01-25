@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pathway\\OneDrive\\Desktop\\cse210-hw\\week02\\Develop05\\Develop05.csproj": {}
+    "C:\\Users\\Pathway\\premierpro\\week02\\Develop05\\Develop05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pathway\\OneDrive\\Desktop\\cse210-hw\\week02\\Develop05\\Develop05.csproj": {
+    "C:\\Users\\Pathway\\premierpro\\week02\\Develop05\\Develop05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pathway\\OneDrive\\Desktop\\cse210-hw\\week02\\Develop05\\Develop05.csproj",
+        "projectUniqueName": "C:\\Users\\Pathway\\premierpro\\week02\\Develop05\\Develop05.csproj",
         "projectName": "Develop05",
-        "projectPath": "C:\\Users\\Pathway\\OneDrive\\Desktop\\cse210-hw\\week02\\Develop05\\Develop05.csproj",
+        "projectPath": "C:\\Users\\Pathway\\premierpro\\week02\\Develop05\\Develop05.csproj",
         "packagesPath": "C:\\Users\\Pathway\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pathway\\OneDrive\\Desktop\\cse210-hw\\week02\\Develop05\\obj\\",
+        "outputPath": "C:\\Users\\Pathway\\premierpro\\week02\\Develop05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pathway\\AppData\\Roaming\\NuGet\\NuGet.Config"

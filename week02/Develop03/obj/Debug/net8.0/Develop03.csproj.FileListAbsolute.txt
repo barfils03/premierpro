@@ -12,3 +12,17 @@ C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop03\obj\Debug\net8.0\re
 C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop03\obj\Debug\net8.0\Develop03.pdb
 C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop03\obj\Debug\net8.0\Develop03.genruntimeconfig.cache
 C:\Users\Pathway\OneDrive\Desktop\cse210-hw\week02\Develop03\obj\Debug\net8.0\ref\Develop03.dll
+C:\Users\Pathway\premierpro\week02\Develop03\bin\Debug\net8.0\Develop03.exe
+C:\Users\Pathway\premierpro\week02\Develop03\bin\Debug\net8.0\Develop03.deps.json
+C:\Users\Pathway\premierpro\week02\Develop03\bin\Debug\net8.0\Develop03.runtimeconfig.json
+C:\Users\Pathway\premierpro\week02\Develop03\bin\Debug\net8.0\Develop03.dll
+C:\Users\Pathway\premierpro\week02\Develop03\bin\Debug\net8.0\Develop03.pdb
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\Develop03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfoInputs.cache
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfo.cs
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\Develop03.csproj.CoreCompileInputs.cache
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\Develop03.dll
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\refint\Develop03.dll
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\Develop03.pdb
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\Develop03.genruntimeconfig.cache
+C:\Users\Pathway\premierpro\week02\Develop03\obj\Debug\net8.0\ref\Develop03.dll
