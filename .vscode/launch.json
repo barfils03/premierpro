@@ -93,7 +93,6 @@
             "stopAtEntry": false
         },
 
-        
         {
             "name": "Learning 02 (Resume)",
             "type": "coreclr",
@@ -187,20 +186,32 @@
             "stopAtEntry": false
         },
 
+        
         {
-            "name": "Develop 05 (Goal Tracker)",
+            "name": "Foundation 1 (YouTube)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build-week02-Develop05",
-            "program": "${workspaceFolder}/week02/Develop05/bin/Debug/net8.0/Develop05.dll",
+            "preLaunchTask": "build-final-Foundation1",
+            "program": "${workspaceFolder}/final/Foundation1/bin/Debug/net8.0/Foundation1.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/week02/Develop05",
+            "cwd": "${workspaceFolder}/final/Foundation1",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
-        }
-        ],
+        },
+
+        {
+            "name": "Foundation 2 (Products)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-final-Foundation2",
+            "program": "${workspaceFolder}/final/Foundation2/bin/Debug/net8.0/Foundation2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/final/Foundation2",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+    ],
+
 }
-
-
-        
