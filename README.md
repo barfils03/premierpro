@@ -38,3 +38,52 @@ Before running the program, make sure you have the following installed:
    ```bash
    git clone https://github.com/barfils03/premierpro.git
 
+# Project: YouTube Video Program
+
+This project is an exercise for the CSE 210 course: Programming with Classes at Brigham Young University. The objective of this program is to create `Video` and `Comment` classes to store information about YouTube videos and their comments.
+
+## Description
+
+The program creates three videos, adds multiple comments to each of them, and then displays the information for each video, including the title, author, length, number of comments, and the comments themselves.
+
+## Project Structure
+
+- **Video.cs**: Contains the `Video` class, which manages video information and its comments.
+- **Comment.cs**: Contains the `Comment` class, which manages comment information for videos.
+- **Program.cs**: The main file where `Video` and `Comment` objects are created and displayed.
+
+## Running the Program
+
+To run the program, simply compile and execute the `Program.cs` file. It will display the following information for each video:
+
+- Title
+- Author
+- Length
+- Number of comments
+- List of comments (including the commentator's name and the comment text)
+
+### Example Output
+
+
+# Online Ordering Program
+
+This project demonstrates encapsulation in object-oriented programming, where we design a system to manage online product orders. The system includes classes for `Product`, `Customer`, `Address`, and `Order`, and allows calculation of the total cost, generation of packing labels, and shipping labels.
+
+## Classes
+
+- **Product**: Stores information about a product, including name, ID, price, and quantity. Calculates the total cost of a product.
+- **Customer**: Stores customer information, including their name and address, and determines if the customer is in the USA.
+- **Address**: Stores address details and determines if the address is in the USA.
+- **Order**: Contains a list of products and a customer. Calculates the total order cost, and generates packing and shipping labels.
+
+## Features
+
+- **Total Order Cost Calculation**: The order's total cost includes the sum of product prices and shipping fees.
+- **Packing Label**: Displays the name and ID of each product in the order.
+- **Shipping Label**: Displays the customer’s name and address.
+
+## Usage
+
+The program creates two orders, each containing products and customer information. It then calculates the total cost of each order, generates packing and shipping labels, and displays the results.
+
+## Example Output
