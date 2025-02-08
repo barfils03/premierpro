@@ -26,3 +26,4 @@ C:\Users\Pathway\premierpro\week02\Develop04\obj\Debug\net8.0\refint\Develop04.d
 C:\Users\Pathway\premierpro\week02\Develop04\obj\Debug\net8.0\Develop04.pdb
 C:\Users\Pathway\premierpro\week02\Develop04\obj\Debug\net8.0\Develop04.genruntimeconfig.cache
 C:\Users\Pathway\premierpro\week02\Develop04\obj\Debug\net8.0\ref\Develop04.dll
+C:\Users\Pathway\premierpro\week02\Develop04\obj\Debug\net8.0\Develop04.sourcelink.json
