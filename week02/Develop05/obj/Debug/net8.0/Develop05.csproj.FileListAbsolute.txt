@@ -26,3 +26,4 @@ C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\refint\Develop05.d
 C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.pdb
 C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.genruntimeconfig.cache
 C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\ref\Develop05.dll
+C:\Users\Pathway\premierpro\week02\Develop05\obj\Debug\net8.0\Develop05.sourcelink.json
