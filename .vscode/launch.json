@@ -185,6 +185,18 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
+        {
+            "name": "Develop 05 (EternalGoals)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week02-Develop05",
+            "program": "${workspaceFolder}/week02/Develop05/bin/Debug/net8.0/Develop05.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week02/Develop05",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
 
         
         {
